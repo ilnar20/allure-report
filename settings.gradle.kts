@@ -1,1 +1,1 @@
-rootProject.name = "allure-reports"
+rootProject.name = "allure-report"
