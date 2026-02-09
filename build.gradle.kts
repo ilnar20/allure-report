@@ -16,6 +16,7 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.9.0")
     testImplementation("com.codeborne:selenide:7.14.0")
     testImplementation("io.qameta.allure:allure-selenide:2.32.0")
+    testImplementation("io.github.bonigarcia:webdrivermanager:6.3.3")
 
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.9.0")
 }
