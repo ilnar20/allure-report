@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2","Создание Issue для авторизованного пользователя","","Wed Feb 11 08:00:00 UTC 2026","passed","Wed Feb 11 08:00:00 UTC 2026","","allure.LabelsTest","allure.LabelsTest","testStaticLabels"
+"","4417","testLambdaAttachments()","","Wed Feb 11 07:59:56 UTC 2026","broken","Wed Feb 11 08:00:00 UTC 2026","","allure.AttachmentsTest","allure.AttachmentsTest","testLambdaAttachments"
+"","201","testLambdaStep()","","Wed Feb 11 08:00:01 UTC 2026","broken","Wed Feb 11 08:00:01 UTC 2026","","allure.StepsTest","allure.StepsTest","testLambdaStep"
+"","241","testAnnotatedAttachments()","","Wed Feb 11 08:00:00 UTC 2026","broken","Wed Feb 11 08:00:00 UTC 2026","","allure.AttachmentsTest","allure.AttachmentsTest","testAnnotatedAttachments"
+"","199","testAnnotatedStep()","","Wed Feb 11 08:00:01 UTC 2026","broken","Wed Feb 11 08:00:01 UTC 2026","","allure.StepsTest","allure.StepsTest","testAnnotatedStep"
+"","203","testIssueSearch()","","Wed Feb 11 08:00:00 UTC 2026","broken","Wed Feb 11 08:00:01 UTC 2026","","allure.SelenideTest","allure.SelenideTest","testIssueSearch"
+"","3","Создание Issue для авторизованного пользователя","","Wed Feb 11 08:00:00 UTC 2026","passed","Wed Feb 11 08:00:00 UTC 2026","","allure.LabelsTest","allure.LabelsTest","testDynamicLabels"
